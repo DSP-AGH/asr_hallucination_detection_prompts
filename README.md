@@ -77,7 +77,6 @@ If you use these prompts, please cite the paper:
   author    = {Jasi{\'n}ski, Jan and Bara{\'n}ski, Mateusz and Bartolewska, Julitta and Witkowski, Marcin and Kowalczyk, Konrad},
   booktitle = {Interspeech 2026},
   year      = {2026}
-  % TODO: add pages / DOI once available
 }
 ```
 
